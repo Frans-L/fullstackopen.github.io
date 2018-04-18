@@ -113,7 +113,7 @@ Pull requestin tekeminen on helppoa. Esim. jos tällä sivulla on typo, mene siv
 
 Ennen kuin aloitamme ohjelmoinnin, käymme läpi web-sovellusten toimintaperiaatteita tarkastelemalla osoitteessa <https://fullstack-exampleapp.herokuapp.com/> olevaa esimerkkisovellusta. Huom. sovelluksen toinen versio on osoitteessa <https://fullstack-example.now.sh>, voit käyttää kumpaa vaan.
 
-Sovelluksen olemassaolon tarkoitus on ainoastaan havainnollistaa kurssin peruskäsitteistöä, sovellus ei ole missään tapauksessa esimerkki siitä _miten_ web-sovelluksia kannattaisi kehittää, päinvastoin, sovellus demonstroi eräitä historiallisia web-sovellusten toteutukseen käytettäjä tapoja ja tekniikoita, joiden  katsotaan nykyään olevan jopa _huonoja käytänteitä_.
+Sovelluksen olemassaolon tarkoitus on ainoastaan havainnollistaa kurssin peruskäsitteistöä. Sovellus ei ole missään tapauksessa esimerkki siitä, _miten_ web-sovelluksia kannattaisi kehittää. Päinvastoin se demonstroi eräitä historiallisia web-sovellusten toteutukseen käytettyjä tapoja ja tekniikoita, joiden katsotaan nykyään olevan jopa _huonoja käytänteitä_.
 
 Kurssin suosittelemaa tyyliä noudattavan koodin kirjoittaminen alkaa [osasta 1](/osa1).
 
